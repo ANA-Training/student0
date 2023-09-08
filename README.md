@@ -1,2 +1,2 @@
-# student0
-Public starter code
+# ANA Student Repository
+The starter code for each task.
